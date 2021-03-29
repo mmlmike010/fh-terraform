@@ -2,7 +2,7 @@
 
 ## Set up:
 
-Follow the steps within https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started
+Before getting started, you'll need to install Terraform by following the steps within https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started
 
 1. Within your terminal, navigate to your documents directory: 
   ```cd ~/Documents```
