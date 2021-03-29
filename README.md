@@ -1,6 +1,4 @@
-# fh-terraform
-
-## Set up:
+# Set up:
 
 Before getting started, you'll need to install Terraform by following the steps within https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started
 
