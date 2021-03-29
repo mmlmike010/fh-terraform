@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "firehydrant" {
-  api_key = "fhb-61d49f619f7ffd213e169cc9a855cd51"
+  api_key = "[FH bot token]"
 }
 
 resource "firehydrant_team" "core-services" {
