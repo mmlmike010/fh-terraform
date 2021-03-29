@@ -20,7 +20,7 @@ Follow the steps within https://learn.hashicorp.com/tutorials/terraform/install-
 
 6. Copy and paste that code into your new main.tf file
 
-7. Within your main.tf file, set up a FH Bot API key and set up some basic resources (link of example below):
+7. Within your main.tf file, under the ```api_key``` you'll need to input your FH BOT API token. You'll also want to set up some basic resources (i.e, ```firehydrant_team```, ```firehydrant_service```, etc). A link of an example can be found below:
   https://github.com/mmlmike010/fh-terraform/blob/main/terraform/main.tf
   
 8. Initialize the directory. Initializing a configuration directory downloads and installs providers used in the configuration.
